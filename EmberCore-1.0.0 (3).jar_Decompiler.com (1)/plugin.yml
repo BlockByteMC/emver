@@ -1,0 +1,32 @@
+name: EmberCore
+version: 1.0.0
+main: com.network.echosmp.Main
+api-version: 1.21
+author: [ Eject ]
+description: Custom designed core plugin
+softdepend: [LuckPerms]
+
+# Normal Player Commands
+commands:
+  ping:
+  store:
+  spawn:
+  live:
+  afk:
+  rules:
+  donation:
+  discord:
+  ranks:
+  guide:
+# Admin
+  announce:
+  tp:
+  setspawn:
+  invsee:
+  fly:
+  flyspeed:
+  setafk:
+  vcban:
+  vcunmute:
+  vchist:
+  punish:
